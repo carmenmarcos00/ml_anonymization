@@ -19,4 +19,4 @@ and is distributed through an open source repository
 
 ## Brief summary of results
 
-To be assessed
+To be assessed when analysis is done
