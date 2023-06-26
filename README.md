@@ -16,3 +16,6 @@ and is distributed through an open source repository
 ## Brief summary of results
 
 To be assessed when analysis is done
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carmenmarcos00/ml_anonymization/HEAD)
