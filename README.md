@@ -1,3 +1,6 @@
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carmenmarcos00/ml_anonymization/HEAD)
+
 # Analysis the performance of machine learning models on anonymized data
 
 The large amount of open data available makes it necessary to study and develop techniques that guarantee its security for processing and analysis. Specifically, the study of
@@ -18,4 +21,3 @@ and is distributed through an open source repository
 To be assessed when analysis is done
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carmenmarcos00/ml_anonymization/HEAD)
