@@ -1,0 +1,521 @@
+Age,Gender,Polyuria,Polydipsia,sudden weight loss,weakness,Polyphagia,Genital thrush,visual blurring,Itching,Irritability,delayed healing,partial paresis,muscle stiffness,Alopecia,Obesity,class
+"[40, 80[",Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[0, 40[",Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive
+"[40, 80[",Male,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Positive
+"[40, 80[",Male,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Negative
+"[40, 80[",Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative
+"[40, 80[",Male,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive
+"[0, 40[",Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Positive
+"[40, 80[",Male,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Positive
+"[40, 80[",Female,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Male,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Positive
+"[40, 80[",Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive
+"[40, 80[",Female,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive
+"[0, 40[",Male,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Positive
+"[40, 80[",Male,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Negative
+"[40, 80[",Female,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[80, 100[",Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Negative
+"[0, 40[",Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive
+"[40, 80[",Female,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Positive
+"[40, 80[",Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative
+"[40, 80[",Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive
+"[0, 40[",Male,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Positive
+"[40, 80[",Male,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive
+"[40, 80[",Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Positive
+"[40, 80[",Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Male,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Positive
+"[40, 80[",Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Positive
+"[40, 80[",Male,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Positive
+"[40, 80[",Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[0, 40[",Female,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Positive
+"[40, 80[",Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Positive
+"[0, 40[",Male,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive
+"[40, 80[",Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Male,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Positive
+"[40, 80[",Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+"[40, 80[",Male,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[0, 40[",Female,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Positive
+"[0, 40[",Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative
+"[0, 40[",Female,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive
+"[40, 80[",Male,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive
+"[40, 80[",Female,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+"[40, 80[",Female,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Female,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Positive
+"[80, 100[",Female,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Male,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Male,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive
+"[0, 40[",Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Positive
+"[40, 80[",Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+"[40, 80[",Male,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[0, 40[",Male,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Positive
+"[40, 80[",Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+"[40, 80[",Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative
+"[40, 80[",Male,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Positive
+"[40, 80[",Female,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive
+"[40, 80[",Female,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive
+"[0, 40[",Female,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative
+"[40, 80[",Male,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Positive
+"[40, 80[",Male,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Positive
+"[40, 80[",Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Male,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+"[40, 80[",Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative
+"[40, 80[",Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Negative
+"[40, 80[",Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive
+"[0, 40[",Female,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Positive
+"[40, 80[",Female,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Positive
+"[40, 80[",Male,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Positive
+"[40, 80[",Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Positive
+"[40, 80[",Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative
+"[40, 80[",Male,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Negative
+"[80, 100[",Female,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Positive
+"[40, 80[",Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive
+"[0, 40[",Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive
+"[40, 80[",Male,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Negative
+"[40, 80[",Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+"[40, 80[",Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[0, 40[",Male,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Positive
+"[0, 40[",Male,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Positive
+"[0, 40[",Male,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Positive
+"[40, 80[",Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative
+"[40, 80[",Male,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Female,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative
+"[0, 40[",Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive
+"[40, 80[",Male,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[0, 40[",Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Female,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[0, 40[",Male,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Positive
+"[40, 80[",Male,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative
+"[40, 80[",Male,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Positive
+"[40, 80[",Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive
+"[40, 80[",Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Positive
+"[0, 40[",Female,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive
+"[40, 80[",Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Negative
+"[40, 80[",Male,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive
+"[40, 80[",Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Male,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive
+"[40, 80[",Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive
+"[40, 80[",Female,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Positive
+"[40, 80[",Female,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative
+"[40, 80[",Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[0, 40[",Female,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive
+"[40, 80[",Male,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative
+"[40, 80[",Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+"[40, 80[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[0, 40[",Female,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[0, 40[",Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Male,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative
+"[40, 80[",Male,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive
+"[0, 40[",Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Female,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Positive
+"[0, 40[",Male,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Male,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative
+"[0, 40[",Female,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[0, 40[",Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Positive
+"[40, 80[",Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative
+"[40, 80[",Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Male,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Positive
+"[0, 40[",Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive
+"[40, 80[",Male,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Male,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Negative
+"[40, 80[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Negative
+"[40, 80[",Female,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Male,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Positive
+"[80, 100[",Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Male,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Positive
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Positive
+"[40, 80[",Male,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[0, 40[",Male,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Positive
+"[40, 80[",Male,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[0, 40[",Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Negative
+"[40, 80[",Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive
+"[40, 80[",Female,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Male,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Positive
+"[0, 40[",Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Negative
+"[40, 80[",Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[0, 40[",Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive
+"[0, 40[",Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive
+"[0, 40[",Male,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Positive
+"[40, 80[",Male,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive
+"[40, 80[",Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Male,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Male,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Female,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Negative
+"[0, 40[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive
+"[40, 80[",Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative
+"[40, 80[",Female,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive
+"[40, 80[",Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative
+"[40, 80[",Male,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Positive
+"[40, 80[",Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Positive
+"[40, 80[",Male,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Negative
+"[40, 80[",Male,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[0, 40[",Male,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Positive
+"[40, 80[",Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative
+"[40, 80[",Male,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Negative
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative
+"[40, 80[",Male,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Negative
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive
+"[40, 80[",Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive
+"[40, 80[",Male,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive
+"[40, 80[",Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive
+"[0, 40[",Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+"[40, 80[",Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive
+"[0, 40[",Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,Positive
+"[40, 80[",Male,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Negative
+"[0, 40[",Female,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Positive
