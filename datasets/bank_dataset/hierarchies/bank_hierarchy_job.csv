@@ -1,0 +1,12 @@
+student;Student;*
+unknown;Unknown;*
+admin.;Employed;*
+blue-collar;Employed;*
+entrepreneur;Employed;*
+management;Employed;*
+self-employed;Employed;*
+services;Employed;*
+technician;Employed;*
+housemaid;unemployed;*
+unemployed;unemployed;*
+retired;Retired;*
