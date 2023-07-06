@@ -79,6 +79,7 @@ dependencies:
   - hdf5=1.14.0=nompi_hb72d44e_103
   - icu=72.1=hcb278e6_0
   - idna=3.4=pyhd8ed1ab_0
+  - imbalanced-learn=0.10.1=pyhd8ed1ab_0
   - importlib-metadata=6.6.0=pyha770c72_0
   - importlib_metadata=6.6.0=hd8ed1ab_0
   - importlib_resources=5.12.0=pyhd8ed1ab_0
@@ -190,7 +191,7 @@ dependencies:
   - nss=3.89=he45b914_0
   - oauthlib=3.2.2=pyhd8ed1ab_0
   - openjpeg=2.5.0=hfec8fc6_2
-  - openssl=3.1.0=hd590300_3
+  - openssl=3.1.1=hd590300_1
   - opt_einsum=3.3.0=pyhd8ed1ab_1
   - packaging=23.1=pyhd8ed1ab_0
   - pandoc=2.19.2=h32600fe_2
@@ -248,6 +249,7 @@ dependencies:
   - rfc3339-validator=0.1.4=pyhd8ed1ab_0
   - rfc3986-validator=0.1.1=pyh9f0ad1d_0
   - rsa=4.9=pyhd8ed1ab_0
+  - scikit-learn=1.2.2=py310hf7d194e_2
   - scikit-learn-intelex=2023.1.1=py310hff52083_0
   - scipy=1.10.1=py310h8deb116_2
   - send2trash=1.8.2=pyh41d4057_0
@@ -313,14 +315,32 @@ dependencies:
   - zstd=1.5.2=h3eb15da_6
   - pip:
       - cloudpickle==2.2.1
+      - dacite==1.8.1
+      - htmlmin==0.1.12
+      - imagehash==4.3.1
       - llvmlite==0.40.1rc1
+      - multimethod==1.9.1
+      - networkx==3.1
       - numba==0.57.0
-      - numpy==1.23.5
+      - numpy==1.23.0
       - pandas==2.0.2
+      - pandas-profiling==3.6.6
+      - patsy==0.5.3
+      - phik==0.12.3
+      - pycanon==1.0.1.post1
+      - pydantic==1.10.10
       - pydot==1.4.2
+      - pywavelets==1.4.1
       - scikeras==0.11.0
-      - scikit-learn==1.2.2
       - seaborn==0.12.2
       - shap==0.41.0
       - slicer==0.0.7
+      - statsmodels==0.14.0
+      - tabulate==0.9.0
+      - tangled-up-in-unicode==0.2.0
       - tqdm==4.65.0
+      - typeguard==2.13.3
+      - typer==0.9.0
+      - visions==0.7.5
+      - wordcloud==1.9.2
+      - ydata-profiling==4.3.1
