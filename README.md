@@ -3,7 +3,7 @@
 
 # Analysis the performance of machine learning models on anonymized data
 
-he large amount of open data available makes it necessary to study and develop tech-
+The large amount of open data available makes it necessary to study and develop tech-
 niques that guarantee its security for processing and analysis. Specifically, the study of
 anonymization techniques focuses on analyzing the distribution of the quasi-identifiers
 and sensitive attributes in a database. There are numerous techniques that can be applied,
